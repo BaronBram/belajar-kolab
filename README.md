@@ -1,7 +1,5 @@
 # belajar-kolab
 
-commit 1
-
-commit 2
-
-commit 3
+com 1
+com 2
+com 3
